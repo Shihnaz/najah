@@ -13,9 +13,9 @@
 
 
     <path id="NecessaryLibraries">
-        <pathelement location="./Refrenced Libraries/junit-4.12.jar"/>
+        <pathelement location="./junit-4.12.jar"/>
         <!--matcher-->
-        <pathelement location="./Refrenced Libraries/hamcrest-core-1.3.jar"/>
+        <pathelement location="./hamcrest-core-1.3.jar"/>
         <!--<pathelement location="./UsedLibraries/jacocoant.jar"/>-->
     </path>
 
